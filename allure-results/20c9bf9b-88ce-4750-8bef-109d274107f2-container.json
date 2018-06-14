@@ -1,0 +1,1 @@
+{"uuid":"20c9bf9b-88ce-4750-8bef-109d274107f2","name":"pettests.DeletePetTest","start":1528882347898,"stop":1528882352421,"children":["0f609291-651d-416c-8553-131b6258c342","e9d87ef2-c569-472e-adec-9bcaaf1acc0b"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1528882351251,"stop":1528882351537}]}

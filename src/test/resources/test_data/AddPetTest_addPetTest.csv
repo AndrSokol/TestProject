@@ -1,0 +1,6 @@
+no,id,categoryId,categoryName,name,photoUrl,tagId,tagName,status,description
+1,1,1,animals,dogname,htt:/dog.jpg,10,funnydogs,available,valid values
+2,2,1,a,dogname1,htt:/dog.jpg,10,funnydogs,available,one letter in category name
+3,3,1,animalsanimalsanimals,dogname1,htt:/dog.jpg,10,funnydogs,available,21 letters in username
+4,4,1,animals,d,htt:/dog.jpg,10,funnydogs,available,one letter in name
+5,5,1,animals,1111111111,htt:/dog.jpg,10,funnydogs,available,16 digits in name

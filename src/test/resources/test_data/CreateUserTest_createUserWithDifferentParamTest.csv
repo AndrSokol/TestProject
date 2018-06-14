@@ -1,0 +1,10 @@
+no,id,username,firstName,lastName,email,password,phone,userStatus,description
+1,10001,crocop1,m,crocop,mirko@gmail.com,123457,0939999999,1,one letter in firstname
+3,10003,crocop2,,crocop,mirko@gmail.com,123457,0939999999,1,empty firstname
+2,10002,crocop3,mirkomirkomirkomirkomirkomirko,crocop,mirko@gmail.com,123457,0939999999,1,40 letters in firstname
+4,10004,crocop4,mirko,c,mirko@gmail.com,123457,0939999999,1,one letter in lastname
+5,10005,crocop5,mirko,crococrococrococrococrococrococrococroco,mirko@gmail.com,123457,0939999999,1,40 letters in lastname
+6,10006,crocop6,mirko,,mirko@gmail.com,123457,0939999999,1,empty lastname
+7,10007,crocop7,mirko,crocop,m,123457,0939999999,1,one letter in email
+8,10008,crocop8,mirko,crocop,mirko@gmail.com,1,0939999999,1,one digit in phone
+9,10009,crocop9,mirko,crocop,mirko@gmail.com,123457,0939999999,1,status 1

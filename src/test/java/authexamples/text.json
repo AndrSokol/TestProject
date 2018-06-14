@@ -1,0 +1,10 @@
+{
+  "data": {
+    "type": "login",
+    "attributes": {
+      "locale": "ru_RU",
+      "email": "ander_sokol@mail.ru",
+      "password": "цук911"
+    }
+  }
+}

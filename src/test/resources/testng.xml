@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite">
+
+    <test name="UserTests">
+        <classes>
+            <class name="usertests.CreateUserTest">
+            </class>
+            <class name="usertests.GetUserTest">
+            </class>
+            <class name="usertests.DeleteUserTest">
+            </class>
+        </classes>
+    </test>
+    <test name="PetTests">
+        <classes>
+            <class name="pettests.AddPetTest">
+            </class>
+            <class name="pettests.GetPetTest">
+            </class>
+            <class name="pettests.DeletePetTest">
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
+
